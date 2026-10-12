@@ -1,0 +1,9 @@
+Item,Qty,Vendor,Vendor Link,Price (INR),Price (USD),Notes
+"Waveshare RP2040 Zero without header",1,Robu,https://robu.in/product/waveshare-rp2040-zero-without-header/,420,4.47,Main controller
+"1N4148 diode",12,Robu,https://robu.in/product/1n4148-tap-vishay-1n4148-tap-small-signal-diode-single-100-v-150-ma-1-v-8-ns-2-a/,78,0.83,Matrix diodes (12x total)
+"EC11 rotary encoder with push switch",1,Robu,https://robu.in/product/hongyan-ec11h-7ce15p1zy15f7-rotary-encoder-with-push-button-switch-vertical-plug-in/,58,0.62,Knob + click
+"MDA Lavender numpad keycaps",12,Stackskb,https://stackskb.com/store/numpad-keycaps/?attribute_variant=MDA+Lavender,150,1.60,Keycaps
+"Gateron Baby Kangaroo 2.0 tactile switches",20,Stackskb,https://stackskb.com/store/gateron-baby-kangaroo-2-0-tactile-switch-pack-of-10/,900,9.57,Pack of 20
+"Gateron hotswap sockets",13,Stackskb,https://stackskb.com/store/gateron-hotswap-sockets/,130,1.38,Socketed switch support
+"1x4 right-angle pin header",1,Self-supplied,NA,0,0.00,UART / expansion
+"Total",,,,,1736,18.47,"Estimated project total"
